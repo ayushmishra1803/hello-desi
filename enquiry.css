@@ -1,0 +1,27 @@
+.main_div {
+  width: 100%;
+}
+.form_div {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.form_section {
+  width: 60%;
+  border: 3px solid rgb(4, 161, 213);
+  margin-top: 3%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h3 {
+  color: rgb(4, 161, 213);
+  margin-top: 3%;
+}
+.form_heading_section {
+  margin-top: 2%;
+}
+.input_div{
+    width: 90%;
+}
