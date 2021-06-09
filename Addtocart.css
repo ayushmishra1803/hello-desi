@@ -1,0 +1,29 @@
+.addtocart{
+    display: flex;
+    margin-top: 5%;
+    align-items: flex-start;
+    margin-left: 5%;
+}
+.Addtocart_div {
+    border: 3px solid rgb(4, 161, 213);
+    width: 90%;
+text-align: center;
+    justify-content: center;
+    height: 40px;
+    justify-content: center;
+    color: rgb(4, 161, 213);
+    font-weight: bolder;
+    padding: 5px;
+  }
+  .Gotocart_div {
+    border: 3px solid rgb(4, 161, 213);
+    width: 90%;
+text-align: center;
+    justify-content: center;
+    height: 40px;
+    justify-content: center;
+    color: white;
+    background-color: rgb(4, 161, 213);
+    font-weight: bolder;
+    padding: 5px;
+  }
