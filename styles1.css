@@ -1,33 +1,31 @@
+*{margin: 0px;padding: 0px;}
+
+
 .outer_div {
-  width: 100%;
-  height: 100%;
-  /*  box-sizing: border-box;
-  display: flex;
+  width: ;
+  box-sizing: border-box;
+  display: ;
   justify-content: center;
-  align-items: center; */
-  /*   margin-top: 5%; */
+  align-items: center;
+  margin-top:;
 }
 .inner-div {
-  width: 100%;
+  width: 80%;
   box-sizing: border-box;
-  border: 2px solid white;
+  
   margin-bottom: 2%;
-}
-body{
-  overflow-x: hidden;
 }
 .nav_bar_div {
   width: 100%;
   box-sizing: border-box;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 .nav_items {
   display: flex;
   width: 80%;
   justify-content: flex-end;
-  margin-left: 45%;
+  margin-right: 5%;
   align-items: flex-end;
 }
 
@@ -39,7 +37,7 @@ input {
   border: none;
 }
 .input_icon {
-  border: 2px solid orange;
+  
 
   display: flex;
   height: auto;
@@ -59,7 +57,7 @@ svg {
   /*  margin-right: 30%; */
 }
 .shop_now {
-  border: 3px solid rgb(4, 161, 213);
+  
   width: 50%;
   display: flex;
   justify-content: center;
@@ -100,7 +98,7 @@ svg {
   align-items: center;
   color: rgb(4, 161, 213);
   font-weight: bolder;
-  border: 5px solid rgb(4, 161, 213);
+  
   margin-top: 2%;
 }
 /* .para_div {
@@ -129,7 +127,7 @@ svg {
   font-weight: bolder;
 }
 .buy_now {
-  border: 3px solid rgb(4, 161, 213);
+ 
   width: 20%;
   /*   display: flex; */
   justify-content: center;
@@ -173,7 +171,7 @@ svg {
   color: orange;
 }
 .Addtocart {
-  border: 3px solid rgb(4, 161, 213);
+  
   width: 60%;
   justify-content: center;
   height: 40px;
@@ -199,6 +197,7 @@ svg {
   height: 200px;
   border: 3px solid rgb(4, 161, 213);
   margin-right: 2%;
+
 }
 .Box_image {
   width: 50%;
@@ -219,7 +218,7 @@ svg {
 .Box2 {
   width: 90%;
   height: fit-content;
-  
+
 }
 .Payment_content1 {
   margin-top: 1%;

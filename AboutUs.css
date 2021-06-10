@@ -1,0 +1,36 @@
+.aboutHeading {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 29px;
+  color: #04a1d5;
+  text-transform: uppercase;
+  margin-top: 1%;
+}
+.AboutUsText {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: justify;
+  color: #e77900;
+}
+.aboutUsInnerDiv {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+.aboutBreadcrumb {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 3%;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+.hr {
+  width: 90%;
+  margin-left: 5%;
+}
